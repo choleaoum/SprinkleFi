@@ -1,5 +1,5 @@
 ## SprinkleFi 
-An opensource project for a WiFi controlled sprinkler system for your lawn/plant care. This project will use an ESP32 to control a 24VAC sprinkler system. 
+An opensource project for a WiFi controlled sprinkler system for your lawn/plant care. This project will use an ESP32 to control a 24VAC sprinkler system. This will be available for everyone and please be responsible. I will take no responsibility if you hurt yourself or ruin your sprinklers.
 
 ### Features
 
