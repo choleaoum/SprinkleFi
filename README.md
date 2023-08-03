@@ -6,6 +6,6 @@ An opensource project for a WiFi controlled sprinkler system for your lawn/plant
 * Detecting weather changes using an API to power the sprinkler on/off. (Severe heat changes/potential rain fall to save on water)
 * Keep the sprinkler on a scheduler.
 * Analytics to view your watering pattern. (TBD)
-
+* Control different sectors.
 
 The PCB board is currently out for production and will be uploaded here on Git when tested/completed.
